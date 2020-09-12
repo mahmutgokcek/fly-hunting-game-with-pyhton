@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Oyun", "Oyun\Oyun.pyproj", "{EB5F4DC6-951F-4E09-8472-02CDFC822230}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EB5F4DC6-951F-4E09-8472-02CDFC822230}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB5F4DC6-951F-4E09-8472-02CDFC822230}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EAE32C64-BA75-4477-B03E-C4BF3FAF3653}
+	EndGlobalSection
+EndGlobal
